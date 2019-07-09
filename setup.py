@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name = 'lambdata_mali_tree_classifier2',         
   packages = ['lambdata_mali_tree_classifier2'],   # Chose the same as "name"
-  version = '0.2',      # 0.1 is the first version
+  version = '0.1',      # 0.1 is the first version
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository  
   description = 'This library is a ML module that predicts using a naive majority Decision Tree',
   author = 'Mohamad Ali Nasser',                   
