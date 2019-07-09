@@ -8,7 +8,7 @@ setup(
   author = 'Mohamad Ali Nasser',                   
   author_email = 'mhd.ali.nasser@gmail.com',      # E-Mail
   url = 'https://github.com/cartman12/lambdata_mali_tree_classifier2',   
-  download_url = 'https://github.com/cartman12/lambdata_mali_tree_classifier2/archive/0.1.tar.gz',   
+  download_url = 'https://github.com/cartman12/lambdata_mali_tree_classifier2/archive/v0.1.tar.gz',   
   keywords = ['ML', 'Decision Tree', 'Makority Classifier'],   # Keywords that define your package best
   install_requires=[ 'pandas' ,        
           'sklearn',
